@@ -11,6 +11,3 @@ CSS Media Queries - More Examples
 That is how you edit code directly in GitHub!
 
 Make another change to the Readme.md file on GitHub.
-test!!!
-https://github.com/stasostrovsky/Hello-world/blob/bdbfe6cec80f0069c05a15e4f881fc2101dada4c/index.html
-C:\projects\CSS-Flexbox\test\w3schools\hello-world\README.md
