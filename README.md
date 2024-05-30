@@ -10,4 +10,6 @@ CSS Media Queries - More Examples
 
 That is how you edit code directly in GitHub!
 
+And we make some changes to the README.md file. Just add a new line.
+
 
